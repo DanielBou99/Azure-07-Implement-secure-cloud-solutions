@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_securefuncdaniel_name": {
+            "value": null
+        },
+        "vaults_securevaultbou_name": {
+            "value": null
+        },
+        "components_securefuncdaniel_name": {
+            "value": null
+        },
+        "storageAccounts_securestordaniel_name": {
+            "value": null
+        },
+        "serverfarms_ASP_ConfidentialStack_933e_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        }
+    }
+}
